@@ -1,37 +1,53 @@
 
-<!-- Banner / saudação -->
-<h1 align="center">👋 Olá, eu sou o Rafael Luiz Carvalho</h1>
-<p align="center">
-  Estudante de <b>ADS</b> (Análise e Desenvolvimento de Sistemas) • 20 anos<br/>
-  Estagiário na <b>GEBOR</b> — técnico de TI e programação em <b>AdvPL</b><br/>
-  Conhecimentos em <b>Java</b> e <b>MySQL</b>, sempre me aventurando em novas linguagens 🚀
-</p>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6898EA&center=true&vCenter=true&width=500&lines=Olá,+me+chamo+Rafael+Luizv>
 
 ---
 
-## 🧑‍💻 Sobre mim
-- 🎓 Foco em fundamentos sólidos, boas práticas e construção de projetos reais.
-- 💼 Estagiário na GEBOR, atuando como técnico de TI e desenvolvendo em **AdvPL**.
-- ☕ Experiência com **Java** e **MySQL** (modelagem, consultas, CRUD).
-- 🌱 Em constante aprendizado: estrutura de dados, APIs, automação e qualidade de código.
+### 👨‍💻 Sobre Mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em programação e infraestrutura de TI. Atualmente atuo como **estagiário na GEBOR**, realizando atividades de suporte técnico e desenvolvimento em **AdvPL**. Tenho experiência prática com **Java** e **MySQL**, além de explorar outras linguagens e ferramentas para ampliar meu conhecimento.
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- 💼 Estagiário na **GEBOR** (TI e programação em AdvPL)
+- ☕ Experiência com **Java** e **MySQL** (modelagem, consultas, CRUD)
+- 🌱 Em constante aprendizado: APIs, boas práticas, automação
+- 📬 Contato: **rafaellc995@gmail.com**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-![Java](https://img.shields.io/badge/Javage/MySQL-4479A1?style=for-the-br-the-badge&logo=protheus&logoColor=whitec="https://github-readme-stats.vercel.app/api?username=RafaelDawkins&show_icons=true&theme=<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rns&layout=compact&theme=radical
-  https://streak-stats.demolab.com/?user=RafaelDawkins&theme=radical
+### 🌐 Conecte-se Comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/rafael-luiz-carvalho-oliveira-424b3b1a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?styledin&logoColor=white
+  </a>
+  <a href="faellc995@gmail.com
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoiv>
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/javasvg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="Mycdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-originalg src="https://cdn.jsdelivr.net/gh/devcon/icons/github/github-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux.jsdelivr.net/gh/devicons/devicon/iconscode-original.svg
 </div>
 
 ---
 
-## 🐍 Snake: commits e contribuições
-> A animação abaixo é gerada diariamente via GitHub Actions:
+### 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  https://raw.githubusercontent.com/RafaelDawkins/RafaelDawkins/output/snake.svg
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelDawkins&show_icons=true&theme=radical" height://github-readme-stats.vercel.app/api/top-langs/?username=ins&layout=compact&theme=radical
+  <img src="https://streak-stats.demolab.com/?lDawkins&theme=radical
+</div>
 
 ---
 
-## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&
+### 🐍 Atividade Recente
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelDawkins/RafaelDawkins/output/s light)" srcset="https://raw.githubusercontent.com/RafaelDawkins/RafaelDawkins/output/skins/RafaelDawkins/output/snake.svg
+</picture>

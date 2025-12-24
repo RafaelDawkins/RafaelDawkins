@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em programação e infraestrutura de TI. Atualmente atuo como **estagiário na GEBOR**, realizando atividades de suporte técnico e desenvolvimento em **AdvPL**. Tenho experiência prática com **Java** e **MySQL**, além de explorar outras linguagens e ferramentas para ampliar meu conhecimento.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em programação e infraestrutura de TI. Atualmente atuo como **estagiário na GEBOR**, realizando atividades de suporte técnico e desenvolvimento em **AdvPL**. Tenho experiência prática com **Java**, **MySQL** e **AdvPL**, além de explorar outras linguagens e ferramentas para ampliar meu conhecimento.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 💼 Estagiário na **GEBOR** (TI e programação em AdvPL)

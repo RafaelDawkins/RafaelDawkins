@@ -18,17 +18,9 @@
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdksql&logoColor=logolor=whiteColore para combinar com seu tema.
-
----
-
-## 📊 Minhas estatísticas no GitHub
-<div align="center">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=RafaelDawkins&show_icons=true&theme=radical" height="160"es -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDawkins&layout=compact&theme<!-- Streak -->
-<img src="https://streak-stats.demolab.com/?user=RafaelDawkins&theme=/div>
+![Java](https://img.shields.io/badge/Javage/MySQL-4479A1?style=for-the-br-the-badge&logo=protheus&logoColor=whitec="https://github-readme-stats.vercel.app/api?username=RafaelDawkins&show_icons=true&theme=<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rns&layout=compact&theme=radical
+  https://streak-stats.demolab.com/?user=RafaelDawkins&theme=radical
+</div>
 
 ---
 
@@ -36,6 +28,10 @@
 > A animação abaixo é gerada diariamente via GitHub Actions:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RafaelDawkins/RafaelDawkins/output/snake.svg" alt🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=forra-424b3b1a3?e&logo=gmail&logoColora evolução.
-- Consistência nas contribuições melhora seus gráficos e visibilidade.
+  https://raw.githubusercontent.com/RafaelDawkins/RafaelDawkins/output/snake.svg
+</p>
+
+---
+
+## 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&

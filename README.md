@@ -58,7 +58,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em p
 
 ### 🐍 Atividade Recente
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcssilvaa/lcssilvaa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lcssilvaa/lcssilvaa/output/github-contribution-grid-snake.svg">

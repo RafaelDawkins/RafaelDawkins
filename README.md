@@ -22,12 +22,17 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em p
 ### 🌐 Conecte-se Comigo
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rafael-luiz-carvalho-oliveira-424b3b1a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?styledin&logoColor=white
+  <a href="https://www.linkedin.com/in/rafael-luiz-carvalho-oliveira-424b3b1a3/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="faellc995@gmail.com
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoiv>
+  <a href="https://instagram.com/bg.raffao" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/babidi5895" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
+
 
 ---
 

@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**RafaelDawkins/RafaelDawkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner / saudação -->
+<h1 align="center">👋 Olá, eu sou o Rafael Luiz Carvalho</h1>
+<p align="center">
+  Estudante de <b>ADS</b> (Análise e Desenvolvimento de Sistemas) • 20 anos<br/>
+  Estagiário na <b>GEBOR</b> — técnico de TI e programação em <b>AdvPL</b><br/>
+  Conhecimentos em <b>Java</b> e <b>MySQL</b>, sempre me aventurando em novas linguagens 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mim
+- 🎓 Foco em fundamentos sólidos, boas práticas e construção de projetos reais.
+- 💼 Estagiário na GEBOR, atuando como técnico de TI e desenvolvendo em **AdvPL**.
+- ☕ Experiência com **Java** e **MySQL** (modelagem, consultas, CRUD).
+- 🌱 Em constante aprendizado: estrutura de dados, APIs, automação e qualidade de código.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdksql&logoColor=logolor=whiteColore para combinar com seu tema.
+
+---
+
+## 📊 Minhas estatísticas no GitHub
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=RafaelDawkins&show_icons=true&theme=radical" height="160"es -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDawkins&layout=compact&theme<!-- Streak -->
+<img src="https://streak-stats.demolab.com/?user=RafaelDawkins&theme=/div>
+
+---
+
+## 🐍 Snake: commits e contribuições
+> A animação abaixo é gerada diariamente via GitHub Actions:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RafaelDawkins/RafaelDawkins/output/snake.svg" alt🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=forra-424b3b1a3?e&logo=gmail&logoColora evolução.
+- Consistência nas contribuições melhora seus gráficos e visibilidade.

@@ -1,7 +1,9 @@
-
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6898EA&center=true&vCenter=true&width=500&lines=Olá,+me+chamo+Rafael+Luizv>
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6898EA&center=true&vCenter=true&width=500&lines=Olá,+me+chamo+Lucas+Silva+Rodrigues!" 
+    alt="Typing animation"
+  />
+</div>
 
 ---
 
@@ -24,17 +26,20 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em p
   </a>
   <a href="faellc995@gmail.com
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoiv>
+  </a>
+</div>
 
 ---
 
 ### ⚙️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/javasvg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="Mycdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-originalg src="https://cdn.jsdelivr.net/gh/devcon/icons/github/github-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux.jsdelivr.net/gh/devicons/devicon/iconscode-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
 </div>
-
+  
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
@@ -48,6 +53,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em p
 
 ### 🐍 Atividade Recente
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelDawkins/RafaelDawkins/output/s light)" srcset="https://raw.githubusercontent.com/RafaelDawkins/RafaelDawkins/output/skins/RafaelDawkins/output/snake.svg
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcssilvaa/lcssilvaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lcssilvaa/lcssilvaa/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/lcssilvaa/lcssilvaa/output/github-contribution-grid-snake.svg">
 </picture>
